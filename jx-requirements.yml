@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "wyz.jenkinsx.com"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
